@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 - :telescope: I’m currently working on Data Structures and Algorithms
 - 🌱 I’m currently learning :star: some networking concepts and Web Development
 - :smile: I am also working on integration of RedHat and python
-- :thumb: If you want to check my competitive ranking so, you can check this link: <br>
-<h3><a href= "https://codeforces.com/profile/vishnupsingh523">Codeforces</a></h3>
-<h3><a href= "https://www.hackerrank.com/vishnupsingh523">Hackerrank</a></h3>
+- 👍 If you want to check my competitive ranking so, you can check this link:
+<a href= "https://codeforces.com/profile/vishnupsingh523">Codeforces</a>
+<a href= "https://www.hackerrank.com/vishnupsingh523">Hackerrank</a>
 
 
 - :mailbox: Reach out to me at my social media handles: <br>
