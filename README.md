@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning :star: some networking concepts and Web Development
 - :smile: I am also working on integration of RedHat and python
 - 👍 If you want to check my competitive ranking so, you can check this link:
-<a href= "https://codeforces.com/profile/vishnupsingh523">Codeforces</a>
+<a href= "https://codeforces.com/profile/vishnupsingh523">Codeforces</a>,
 <a href= "https://www.hackerrank.com/vishnupsingh523">Hackerrank</a>
 
 
