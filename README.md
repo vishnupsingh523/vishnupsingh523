@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 - :telescope: I’m currently working on Data Structures and Algorithms
 - 🌱 I’m currently learning :star: some networking concepts and Web Development
-- :smile: I am also working on integration of RedHat and Python :star: <a href="https://github.com/vishnupsingh523/Ddecoders_RedHat>Project</a>
+- :smile: I am also working on integration of RedHat and Python :star:
+<a href="https://github.com/vishnupsingh523/Ddecoders_RedHat">Project</a>
 - 👍 If you want to check my competitive ranking so, you can check these links below:<br>
 <a href= "https://codeforces.com/profile/vishnupsingh523"><b>Codeforces</b></a><br>
 <a href= "https://www.hackerrank.com/vishnupsingh523"><b>Hackerrank</b></a><br>
