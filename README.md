@@ -5,6 +5,7 @@
 -->
 Here are some ideas to get you started:
 
+<img src="image.json">
 - :telescope: I’m currently working on Data Structures and Algorithms
 - 🌱 I’m currently learning :star: some networking concepts and Web Development
 - :smile: I am also working on integration of RedHat and Python :star:
