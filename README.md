@@ -3,6 +3,7 @@
   body{
     background-image url("images.jpeg");
   }
+  </style>
 <h2>I am Vishwanath Pratap Singh</h2>
 <!--
 **vishnupsingh523/vishnupsingh523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
