@@ -1,5 +1,7 @@
 ### Hi there 👋
 <h2>I am Vishwanath Pratap Singh</h2>
+![](https://komarev.com/ghpvc/?username=vishnupsingh523&label=PROFILE+VIEWS)
+
 <!--
 **vishnupsingh523/vishnupsingh523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
