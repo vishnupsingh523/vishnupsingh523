@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishnupsingh523&&show_icons=true&title_color=ffffff&icon_color=FFEB3B&text_color=daf7dc&bg_color=330033">
-![](https://hit.yhype.halp.im/github/profile?user_id=49968961)
+[![](https://hit.yhype.halp.im/github/profile?user_id=49968961)]
