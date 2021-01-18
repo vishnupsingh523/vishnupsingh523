@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👍 If you want to check my competitive ranking so, you can check these links below:<br>
 <a href= "https://codeforces.com/profile/vishnupsingh523"><b>Codeforces</b></a><br>
 <a href= "https://www.hackerrank.com/vishnupsingh523"><b>Hackerrank</b></a><br>
-<a href = "https://www.codechef.com/users/vishnupsingh52"><b>2 :star: Codechef</b></a>
+<a href = "https://www.codechef.com/users/vishnupsingh52"><b>1 :star: Codechef</b></a>
 
 
 - :mailbox: Reach out to me at my social media handles: <br>
