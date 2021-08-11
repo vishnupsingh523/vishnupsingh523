@@ -1,10 +1,12 @@
-### Hi there 👋
-<h2>I am Vishwanath Pratap Singh</h2>
+### Hi there 👋 I'm Vishwanath Pratap Singh
+
+![](https://komarev.com/ghpvc/?username=vishnupsingh523&color=blue)
 
 <!--
 **vishnupsingh523/vishnupsingh523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+
+<h2> are some ideas to get you started</h2>
 
 - :telescope: I’m currently working on Data Structures and Algorithms
 - 🌱 I’m currently learning :star: some networking concepts and Web Development
